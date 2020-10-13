@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
@@ -10,31 +9,35 @@
   </url>
   
   <url>
-    <loc>https://gettypubs.github.io/quire-starter/intro/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/1_lu_xuan/</loc>
   </url>
   
   <url>
-    <loc>https://gettypubs.github.io/quire-starter/essay/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/2_shen_cai/</loc>
   </url>
   
   <url>
-    <loc>https://gettypubs.github.io/quire-starter/catalogue/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/3_rainbow_screen/</loc>
   </url>
   
   <url>
-    <loc>https://gettypubs.github.io/quire-starter/catalogue/1/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/4_spring_rain/</loc>
   </url>
   
   <url>
-    <loc>https://gettypubs.github.io/quire-starter/catalogue/2/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/5_structural_notes/</loc>
   </url>
   
   <url>
-    <loc>https://gettypubs.github.io/quire-starter/catalogue/3/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/6_jiayetang/</loc>
   </url>
   
   <url>
-    <loc>https://gettypubs.github.io/quire-starter/catalogue/4/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/selected_reading/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gettypubs.github.io/quire-starter/about/</loc>
   </url>
   
   <url>
@@ -46,7 +49,7 @@
   </url>
   
   <url>
-    <loc>https://gettypubs.github.io/quire-starter/about/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/privacy_policy/</loc>
   </url>
   
 </urlset>
