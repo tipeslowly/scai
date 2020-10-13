@@ -1,90 +1,165 @@
 figure_list:
-  - id: "dog1"
-    src: figures/lange.jpg
-    caption: "*Dorothea Lange, Resettlement Administration photographer, in California*, 1936."
-    credit: "Library of Congress Prints and Photographs Division"
-  - id: "dog2"
-    src: figures/evans.jpg
-    caption: "*Walker Evans, profile, hand up to face*, 1937."
-    credit: "Library of Congress Prints and Photographs Division"
-  - id: "fig-1"
-    label: "Figure 1"
-    src: figures/evans-legionnaire.jpg
-    caption: "Walker Evans. *[American Legionnaire]*, 1935. "
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-2"
-    label: "Figure 2"
-    src: figures/evans-sons.jpg
-    caption: "Walker Evans. *Sons of the American Legion, Bethlehem, Pennsylvania*, 1935."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-3"
-    label: "Figure 3"
-    src: figures/evans-graveyard.jpg
-    caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-4"
-    label: "Figure 4"
-    src: figures/evans-hymns.jpg
-    caption: "Walker Evans. *Alabama Tenant Farmer Family Singing Hymns / The Tengle Family, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-5"
-    label: "Figure 5"
-    src: figures/evans-burroughs.jpg
-    caption: "Walker Evans. *Floyd and Lucille Burroughs, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-6"
-    label: "Figure 6"
-    src: figures/evans-washroom.jpg
-    caption: "Walker Evans. *Washroom in the Dog Run of the Burroughs Home, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-7"
-    label: "Figure 7"
-    src: figures/evans-child.jpg
-    caption: "Walker Evans. *Farmer's Child, Alabama / Othel Lee (Squeakie) Burroughs, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-8"
-    label: "Figure 8"
-    src: figures/evans-refugee.jpg
-    caption: "Walker Evans. *Arkansas Flood Refugee*, 1937."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "lange-house"
-    src: figures/lange-house.jpg
-    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
-    credit: The J. Paul Getty Museum, Los Angeles
-  - id: "evans-video"
-    src: figures/evans-video-still.jpg
-    media_id: BpGN0UUtqqU
-    media_type: youtube
-    caption: "A selection of Walker Evans photos from the across the United States of America, 1930s."
-    credit: The J. Paul Getty Museum, Los Angeles
-  - id: "photo-podcast"
-    media_id: 336879231
-    media_type: soundcloud
-    caption: "Echoing the work of Lange and Evans, contemporary photographer Chris Killip documents social landscapes and is known for a series of powerful images of struggling industrial communities in North East England."
-  - id: "mother"
-    src: figures/mother.jpg
-    caption: "Dorothea Lange, *Human Erosion in California / Migrant Mother*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-    download: true
-  - id: "mother-b"
-    src: figures/mother-b.jpg
-    caption: "Dorothea Lange, alternate version of *Migrant Mother*, 1936."
-    credit: Library of Congress Prints and Photographs Division
-  - id: "mother-c"
-    src: figures/mother-c.jpg
-    caption: "Dorothea Lange, alternate version of *Migrant Mother*, 1936."
-    credit: Library of Congress Prints and Photographs Division
-  - id: "pickers"
-    src: figures/pickers.jpg
-    caption: "Dorothea Lange, *Pea Pickers, Nipomo, California*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-  - id: "duo"
-    src: figures/duo.jpg
-    caption: "Walker Evans, *Bud Fields with His Wife Ivy, and His Daughter Ellen, Hale County, Alabama*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-    download: true
-  - id: "family"
-    src: figures/family.jpg
-    caption: "Walker Evans, *Burrough’s Family, Hale County, Alabama*, 1935."
-    credit: The J. Paul Getty Museum, Los Angeles
+  - id: "SC"
+    src: figures/SC.png
+    caption: "Portrait of Shen Cai (b. 1752) from her literary collection
+*Chun­yulou ji* (春雨樓集), painted by the woman painter Wang Liang (汪亮). Courtesy of Shanghai Library."
+    credit: ""
 
+  - id: "2.1"
+    src: figures/2.1.png
+    caption: "Seals of the author Lu Xuan and amanuensis Shen Cai. Her sobriquet *Rainbow
+    Screen* are the two small seals in the fourth column from the left."
+
+  - id: "2.2"
+    src: figures/2.2.png
+    caption: ""
+
+  - id: "2.3"
+    src: figures/2.3.png
+    caption: "Shen Cai's epilogue"
+
+  - id: "3.1"
+    src: figures/3.1.png
+    caption: "Shen Cai poem based on 'Gazing South of the River'"
+
+  - id: "3.3"
+    src: figures/3.3.png
+    caption: ""
+
+  - id: "SC_3"
+    src: figures/SC_3.png
+    credit: ""
+
+  - id: "4.1"
+    src: figures/4.1.png
+    credit: ""
+
+  - id: "4.2"
+    src: figures/4.2.png
+    credit: ""
+
+  - id: "3.6"
+    src: figures/3.6.png
+    caption: "A *jue* poem by The Plum Valley clerk, Shen Cai"
+
+  - id: "Cover"
+    src: figures/Cover.png
+    credit: ""
+
+  - id: "5.1"
+    src: figures/5.1.png
+    credit: ""
+
+  - id: "5.3"
+    src: figures/5.3.png
+    credit: ""
+
+  - id: "5.4"
+    src: figures/5.4.png
+    credit: ""
+
+  - id: "5.5"
+    src: figures/5.5.png
+    credit: ""
+
+  - id: "5.8"
+    src: figures/5.8.png
+    caption: "Detail of fine chain lines on paper"
+
+  - id: "5.9"
+    src: figures/5.9.png
+    credit: ""
+
+  - id: "5.10"
+    src: figures/5.10.png
+    credit: ""
+
+  - id: "5.11"
+    src: figures/5.11.png
+    caption: "Shen Cai's seal appears on the bottom left corner"
+
+  - id: "LX_1"
+    src: figures/LX_1.png
+    caption: Lu Xuan's *Meanings in the Book of Documents*, handwritten by Shen Cai
+    credit: ""
+
+  - id: "D1"
+    src: figures/D1.png
+    caption: ""
+    credit: ""
+  - id: "D2"
+    src: figures/D2.png
+    caption: ""
+    credit: ""
+  - id: "RSL_1"
+    src: figures/RSL_1.png
+    caption: "Third draft of *Meanings in the Book of Documents*, handwritten by *The Silkworm Cultivating Concubine of Xu Mountain*, Shen Cai"
+    credit: ""
+  - id: "RSL_2"
+    src: figures/RSL_2.png
+    caption: "Five-character lü format poem written by *The Hermit of Qingyao Mountain*."
+    credit: ""
+  - id: "RSL_3"
+    src: figures/RSL_3.png
+    caption: "Two *ci* poems by Shen Cai"
+    credit: ""
+  - id: "RSL_4"
+    src: figures/RSL_4.png
+    caption: "A few lines of *jue* poetry written by Shen Cai after finishing proofreading"
+    credit: ""
+  - id: "RSL_5"
+    src: figures/RSL_5.png
+    caption: "Poem after the twenty-third chapter “Charge to Yue [of Fuxian] part 3”"
+    credit: ""
+  - id: "RSL_6"
+    src: figures/RSL_6.png
+    caption: "Poem after the seventh volume, thirty-third chapter"
+    credit: ""
+  - id: "RSL_7"
+    src: figures/RSL_7.png
+    caption: "Poem after the ninth volume, forty-third chapter 'Against Luxurious Ease'"
+    credit: ""
+  - id: "P1"
+    src: figures/P1.png
+    caption: ""
+    credit: ""
+  - id: "P2"
+    src: figures/P2.png
+    caption: ""
+    credit: ""
+  - id: "P3"
+    src: figures/P3.png
+    caption: ""
+    credit: ""
+  - id: "P4"
+    src: figures/P4.png
+    caption: ""
+    credit: ""
+  - id: "P6"
+    src: figures/P6.png
+    caption: ""
+    credit: ""
+  - id: "P7"
+    src: figures/P7.png
+    caption: ""
+    credit: ""
+  - id: "Liu"
+    src: figures/Liu.png
+    caption: "劉承幹 Liu Chenggan"
+    credit: ""
+  - id: "Seal_1"
+    src: figures/Seal_1.png
+    caption: ""
+    credit: ""
+  - id: "Seal_2"
+    src: figures/Seal_2.png
+    caption: "嘉業堂藏書印<br>Seals of the Jiaye Library"
+    credit: ""
+  - id: "Seal_3"
+    src: figures/Seal_3.png
+    caption: ""
+    credit: ""
+  - id: "Zhejiang_library"
+    src: figures/Zhejiang_library.png
+    caption: "原件藏浙江圖書館 Letter from Liu Chenggan to the Zhejiang Library, dated 19 November 1951<br> (original in the Zhejiang Library)"
+    credit: ""
