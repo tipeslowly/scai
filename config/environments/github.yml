@@ -11,5 +11,5 @@
 
 # Use these settings for GH Pages
 
-baseURL: "https://tipeslowly.github.io/shencai/" # Needs trailing slash
+baseURL: "https://tipeslowly.github.io/scai/" # Needs trailing slash
 canonifyURLs: true
