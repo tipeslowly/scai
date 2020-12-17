@@ -33,7 +33,7 @@ publisher:
   - name: HKUL
     location: Hong Kong
     url:
-    logo: contributors/HKUL_logo.png
+    logo: figures/HKUL_logo.png
 
 # ------------------------------------------------------------------------------
 # Contributors
