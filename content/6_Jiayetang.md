@@ -35,6 +35,8 @@ Liu Chenggan once wrote that when the first national exposition of China was hel
 
 Liu Chenggan was keen to build up a collection that was functional in nature. He paid special attention to the collection of manuscripts based on their uniqueness. And when he was unable to acquire an original title, he hired transcribers to make a copy so as to add it to his collection. He also was extremely generous in sharing his collection, so as to ensure that the rarest titles would last forever. In addition to setting aside a corner in his library for visitors to read and copy his books, he made them available to publishers for duplication free-of-charge. He even served as a printer and recruited a number of well-known scholars to edit and proofread rare titles in his collection before reprinting them.
 
+{{< q-figure id="Jiayetang_gates" >}}
+
 Located in Nanxun, the Jiaye Library was completed in 1924. It occupied an area of twenty-four mu (1.6 hectares) and was staffed with personnel responsible for the management of the site and for publishing activities. The two-storey main building was designed with specific emphasis on proper ventilation and equipped with facilities to prevent fire, moisture and insects. In terms of facilities and design, the Jiaye Library resembled a modern library, despite the fact that it was constructed in a traditional manner.
 
 {{< q-figure id="Zhejiang_library" >}}

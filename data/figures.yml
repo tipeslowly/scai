@@ -5,6 +5,9 @@ figure_list:
 *Chun­yulou ji* (春雨樓集), painted by the woman painter Wang Liang (汪亮). Courtesy of Shanghai Library."
     credit: ""
 
+  - id: "HKUL"
+    src: figures/HKUL_logo.png
+
   - id: "2.1"
     src: figures/2.1.png
     caption: "Seals of the author Lu Xuan and amanuensis Shen Cai. Her sobriquet *Rainbow
@@ -68,11 +71,11 @@ figure_list:
 
   - id: "5.9"
     src: figures/5.9.png
-    credit: ""
+    caption: "Interleaving paper with the words Long Tai Yu Factory Fan Paper"
 
   - id: "5.10"
     src: figures/5.10.png
-    credit: ""
+    caption: "Title label for *Commentary on the Book of Documents*"
 
   - id: "5.11"
     src: figures/5.11.png
@@ -162,4 +165,8 @@ figure_list:
   - id: "Zhejiang_library"
     src: figures/Zhejiang_library.png
     caption: "原件藏浙江圖書館 Letter from Liu Chenggan to the Zhejiang Library, dated 19 November 1951<br> (original in the Zhejiang Library)"
+    credit: ""
+  - id: "Jiayetang_gates"
+    src: figures/Jiayetang_gates.png
+    caption: "Entrance gates to the Jiayetang Library"
     credit: ""

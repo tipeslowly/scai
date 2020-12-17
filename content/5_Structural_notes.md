@@ -25,7 +25,7 @@ The pages of the book are printed with a black text frame (*bankuang*). This fra
 
 The manuscript is written in a neat kai script on a mixed-fiber paper (*Luowen Xuan*[^1]) with fine chain lines. The chain lines appear 2–3 mm apart, which is closer than on most standard *xuan* papers. The binding style incorporates an interleaving paper in the center of each folded leaf. The words “Long Tai Yu Factory Fan Paper” are printed on the edge of the interleaving paper at the bottom of the last fascicle, providing evidence of the specific paper used for interleaving the binding. Stamps from the paper mill were commonly included on the end of the ream of paper, and are seen in both printed and handwritten manuscript volumes from the Qianlong period of the Qing dynasty.[^2]
 
-{{< q-figure-group grid="2" id="5.8, 5.9" >}}
+{{< q-figure-group grid="2" id="5.9, 5.8" >}}
 
 The title labels for *Commentary on the Book of Documents* were handwritten by Lu Xuan. The label of the twelfth volume has two square intaglio seals of Lu Xuan’s studio name Plum Valley (Mei Gu). The contents are numbered on each label using the Twelve Earthly Branches.[^3]
 
