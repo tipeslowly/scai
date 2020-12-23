@@ -171,10 +171,12 @@ figure_list:
     src: figures/Seal_3.png
     caption: ""
     credit: ""
+
   - id: "Zhejiang_library"
     src: figures/Zhejiang_library.png
     caption: "原件藏浙江圖書館 Letter from Liu Chenggan to the Zhejiang Library, dated 19 November 1951<br> (original in the Zhejiang Library)"
     credit: ""
+    
   - id: "Jiayetang_gates"
     src: figures/Jiayetang_gates.png
     caption: "Entrance gates to the Jiayetang Library"
