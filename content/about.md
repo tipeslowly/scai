@@ -4,7 +4,7 @@ subtitle:
 weight: 200
 ---
 
-*From the Rainbow Screen* is the first in a series of collaborative online projects developed by the Hong Kong University Libraries and HKU scholars. The publication was designed using [Quire](https://gettypubs.github.io/quire), the Getty's open-source publishing environment for creating traditional and digitally enhanced books.
+*From the Rainbow Screen* is the first in a series of collaborative online projects developed by the Hong Kong University Libraries and HKU scholars. The publication was designed using [Quire](https://gettypubs.github.io/quire), the Getty's open-source publishing environment.
 
 Primary text for this publication has been excerpted from HKU Professor Yang Yuanzheng's developing mansucript on Confucian music and rites.
 
