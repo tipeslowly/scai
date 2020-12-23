@@ -8,7 +8,7 @@ class: page-one
 abstract:
 ---
 
-{{< q-figure id="Liu" >}}
+{{< q-figure id="Liu" class="no-zoom" >}}
 
 Established in 1932, the Fung Ping Shan Library at The University of Hong Kong has collected more than 700 rare titles (11,000 volumes) dating back to the Song, Yuan, Ming and Qing dynasties. Many of these rare editions and manuscripts were acquired from the Jiaye Library (Jiayetang), a private collection located in Nanxun (now Huzhou, Zhejiang province) during China’s Republican period (1912–1949).
 
@@ -35,11 +35,11 @@ Liu Chenggan once wrote that when the first national exposition of China was hel
 
 Liu Chenggan was keen to build up a collection that was functional in nature. He paid special attention to the collection of manuscripts based on their uniqueness. And when he was unable to acquire an original title, he hired transcribers to make a copy so as to add it to his collection. He also was extremely generous in sharing his collection, so as to ensure that the rarest titles would last forever. In addition to setting aside a corner in his library for visitors to read and copy his books, he made them available to publishers for duplication free-of-charge. He even served as a printer and recruited a number of well-known scholars to edit and proofread rare titles in his collection before reprinting them.
 
-{{< q-figure id="Jiayetang_gates" >}}
+{{< q-figure id="Jiayetang_gates" class="no-zoom" >}}
 
 Located in Nanxun, the Jiaye Library was completed in 1924. It occupied an area of twenty-four mu (1.6 hectares) and was staffed with personnel responsible for the management of the site and for publishing activities. The two-storey main building was designed with specific emphasis on proper ventilation and equipped with facilities to prevent fire, moisture and insects. In terms of facilities and design, the Jiaye Library resembled a modern library, despite the fact that it was constructed in a traditional manner.
 
-{{< q-figure id="Zhejiang_library" >}}
+{{< q-figure id="Zhejiang_library" class="no-zoom" >}}
 
 The Library survived the Anti-Japanese War (1937–1945), but eventually Liu Chenggan ran out of money and had to sell part of the collection. He eventually donated the remaining library, including the building and its collection of books and wooden blocks, to the Zhejiang Library on 19 November 1951. The Zhejiang Library currently owns about half of the Jiaye Library Collection. Libraries like the National Library of China, Fudan University Library, Fung Ping Shan Library, The University of Hong Kong, Macao Central Library, Academia Sinica in Taiwan and the C.V. Starr East Asian Library of the University of California, Berkeley also hold some of the fine items from the collection.  
 
