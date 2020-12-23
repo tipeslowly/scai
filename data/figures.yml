@@ -82,6 +82,10 @@ figure_list:
     src: figures/5.10.png
     caption: "Title label for *Commentary on the Book of Documents*"
 
+  - id: "5.10_2"
+    src: figures/5.10_2.png
+    caption: "Title label for *Commentary on the Book of Documents* with intaglio seals of Lu Xuan’s studio Plum Valley (Mei Gu)"
+
   - id: "5.11"
     src: figures/5.11.png
     caption: "Shen Cai's seal appears on the bottom left corner"

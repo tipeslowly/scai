@@ -29,7 +29,7 @@ The manuscript is written in a neat kai script on a mixed-fiber paper (*Luowen X
 
 The title labels for *Commentary on the Book of Documents* were handwritten by Lu Xuan. The label of the twelfth volume has two square intaglio seals of Lu Xuan’s studio name Plum Valley (Mei Gu). The contents are numbered on each label using the Twelve Earthly Branches.[^3]
 
-{{< q-figure id="5.10" >}}
+{{< q-figure id="5.10_2" >}}
 
 The title label is missing on the second fascicle, but can be found on all others. On the final page of the last fascicle there is a small square intaglio seal that bears the words “Hand bound by Floating Fragrance (Piao Xiang)”. This is believed to be a studio name for Shen Cai,[^4] indicating that Shen Cai was both the scribe and binder.
 
