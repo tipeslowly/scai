@@ -29,7 +29,7 @@ In the early 1950s, the Fung Ping Shan Library acquired a sizeable collection of
 
 Liu Chenggan (1882–1963) was a native of Wuxing County (now Huzhou), Zhejiang province. As the adopted son of his father's older brother, he inherited a fortune from his grandfather, who was the richest man in Nanxun (now Huzhou). His father passed the imperial examination in 1894, and was awarded the *jinshi*, the highest degree. His father also collected numerous history books as part of a compilation of the administrative history of the late Qing period. Though he never took up any official position in the Qing government, he was awarded an honorary official title based on his contributions to relief work from 1909 to 1911. He pledged loyalty to Emperor Xuantong, the last Emperor of China, who presented him several plaques in thanks. Liu named his personal library Jiaye Tang and Xigu Lou by selecting inscriptions from the Emperor's plaques.
 
-{{< q-figure-group grid="3" id="Seal_1,Seal_2,Seal_3" >}}
+{{< q-figure-group grid="3" id="Seal_1,Seal_2,Seal_3" class="no-zoom" >}}
 
 Liu Chenggan once wrote that when the first national exposition of China was held in Nanjing in 1910, he took the opportunity to visit the book stalls and purchase countless books. News quickly spread amongst the booksellers who came to visit him with their books. It also should be noted that many book collectors sold their collections in response to the political upheavals associated with the downfall of the Qing dynasty in 1911. Such a historical background enabled Liu Chenggan to collect roughly 200,000 volumes from 1910 to 1924.
 
