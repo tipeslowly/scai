@@ -13,6 +13,11 @@ figure_list:
     caption: "Seals of the author Lu Xuan and amanuensis Shen Cai. Her sobriquet *Rainbow
     Screen* are the two small seals in the fourth column from the left."
 
+  - id: "LX_1splash"
+    src: figures/LX_1splash.png
+    caption:
+
+
   - id: "2.2"
     src: figures/2.2.png
     caption: ""

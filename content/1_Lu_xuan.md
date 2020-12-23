@@ -4,7 +4,7 @@ title: Lu Xuan
 subtitle:
 weight: 10
 type: splash
-image: figures/LX_1.png
+image: figures/LX_1splash.png
 abstract:
 ---
 
