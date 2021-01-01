@@ -1,6 +1,6 @@
 ---
 label: 7
-title: Selected Reading List
+title: Selected References
 subtitle:
 weight: 199
 type: essay
@@ -48,3 +48,19 @@ Fong, Grace S. *Herself an Author: Gender, Agency, and Writing in Late Imperial 
 
 13 春雨樓集 : 十四卷, 附題辭 : 一卷; 上海 : 上海古籍出版社; 2010第1版.
      Main Library Storage   [大C] PL2507 .Q564 2009 , X62835673
+     <br/>
+     <br/>
+**Components of a traditional Chinese book page**
+{{< q-figure id="Book_layout" >}}
+
+1. Head and foot margin: “heavenly head” and “earthly foot”; the upper and lower margin of a page. The head is generally larger than the foot. Comments are sometimes written or printed in the head area, which is called *Shumei* “book eyebrows”.
+2. Head and foot edge: “book head” and “book foot”; the top and bottom of the book edge.<br>Book brain: margin near the sewing edge.
+3. Text frame/border line: sides of a printed area (top, bottom, left and right). The lines can be single or double, for example: four double lines, four single lines, or double lines for the left and right and single for the top and bottom.
+4. Column line/boundary: vertical dividing lines between columns. Spacing between the lines depends on the size of the characters; the color of the lines can be black, blue or red.
+5. Book ear: a narrow box for writing titles or keywords. Located outside the top left border line in the book brain.
+6. Block center: “block heart”; an area of the center column. Book or chapter titles are written or printed in this area. Pagination, total number of characters, and name of the worker who carved the block may appear here. Except for a butterfly binding, this area becomes the fore-edge when the page is folded in half.
+7. White mouth and black mouth: the area above the upper fishtail and below the lower fishtail within the block's center. It is called white mouth if the space is empty, and black mouth if there is a vertical line in the middle. If a thick line is used, it is referred to as a big black mouth.<br>
+Elephant trunk: there are multiple meanings for this term, but it usually means the area with the black mouth. It is called elephant trunk because the combination of the black line and the fishtail resembles the shape of an elephant's trunk. It helps with folding by indicating the center of a page.
+8. Fishtail: resembles the shape of a fishtail; the shape can be white, filled in black, double-lined or decorated in other ways. The fishtail usually appears as a pair (same design), or only as an upper tail. This marking acts as the guide for folding the pages in half along the center.
+9. Plate: space for a colophon. Imprint information such as title, author, block carver, collector, printing location and year, ownership or copyright.
+10. Block face: printed area, dimension of the printing block.

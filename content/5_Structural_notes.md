@@ -19,10 +19,10 @@ Ten of the twelve fascicles are bound with “betel nut and tiger skin” patter
 
 {{< q-figure-group grid="2" id="5.4, 5.5" >}}
 
-The book pages are printed with a black text frame (*bankuang*). This frame is single-lined at the head and tail while the vertical lines of the text frame are double-lined. The center of the block (*banxin*) is white and does not include the fish-tail mark commonly found in other printed and handwritten works from this time.
+The book pages are printed with a black text frame (*bankuang*). The frame is single-lined at the head and tail while the vertical lines of the text frame are double-lined. The center of the block (*banxin*) is white and does not include the fish-tail mark that is commonly found in other printed and handwritten works from this time.
 
 {{< q-figure id="SC_layout" >}}
-{{< q-figure id="Book_layout" >}}
+{{< q-figure id="Book_layout2" >}}
 
 The only writing on the *banxin* are the chapter title (*juan*) and page number. In addition to the ownership stamp for the Fung Ping Shan Library of the University of Hong Kong that appears on the cover of each fascicle, the beginning of chapters, and the first page of each fascicle, also contains seal impressions from multiple collectors, including Liu Chenggan, courtesy name Zhenyi, pen name Han yi (square relief seal); the “Wu Xing Liu Family Jiayetang Collection” (square intaglio seal); “Zhu”  and “Shao” (square intaglio seals); “Jia bin Collection” (oblong intaglio seal); and “Zhang Shuping” (square intaglio seal).
 

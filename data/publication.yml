@@ -58,19 +58,24 @@ contributor:
     last_name: Beenk
     bio: "Head of HKUL PCD"
     file_as: 2
+  - id: Lesly Liu
+    type: secondary
+    first_name: Lesley
+    last_name: Liu
+    bio: "Assistant Preservation & Conservation Librarian"
+    file_as: 3
   - id: Christopher_Mattison
     type: secondary
     first_name: Christopher
     last_name: Mattison
     bio: "UMAG Curator and publisher"
-    file_as: 3
+    file_as: 4
   - id: Darcy_Christ
     type: secondary
     first_name: Darcy
     last_name: Christ
     bio: "Information Architect and Web Developer"
     url: https://aporia.info
-    file_as: 4
 
 
 

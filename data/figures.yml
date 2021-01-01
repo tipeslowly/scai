@@ -11,12 +11,11 @@ figure_list:
   - id: "2.1"
     src: figures/2.1.png
     caption: "Seals of the author Lu Xuan and amanuensis Shen Cai. Her sobriquet *Rainbow
-    Screen* are the two small seals in the fourth column from the left."
+    Screen* appear in the two small seals in the fourth column from the left."
 
   - id: "LX_1splash"
     src: figures/LX_1splash.png
     caption:
-
 
   - id: "2.2"
     src: figures/2.2.png
@@ -72,11 +71,15 @@ figure_list:
 
   - id: "SC_layout"
     src: figures/SC_layout.png
-    caption: "Page layout for *Commentary on the Book of Documents*"
+    caption: "Reproduction of page layout for *Commentary on the Book of Documents* showing exact proportions"
 
   - id: "Book_layout"
     src: figures/Book_layout.png
     caption: "Traditional Chinese book layout"
+
+  - id: "Book_layout2"
+    src: figures/Book_layout2.png
+    caption: "Traditional Chinese book layout (See *Selected References* chapter for discussion of the individual components)"
 
   - id: "5.8"
     src: figures/5.8.png
@@ -100,7 +103,7 @@ figure_list:
 
   - id: "LX_1"
     src: figures/LX_1.png
-    caption: Lu Xuan's *Meanings in the Book of Documents*, handwritten by Shen Cai
+    caption: Lu Xuan's *Meanings in the Book of Documents* handwritten by Shen Cai
     credit: ""
 
   - id: "D1"

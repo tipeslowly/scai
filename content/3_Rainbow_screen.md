@@ -7,7 +7,7 @@ type: essay
 class: page-one
 abstract:
 ---
-After copying Lu Xuan's manuscript, Shen Cai would occasionally add her own literary creations to the end of sections; sixteen in total, comprising twelve *shi* poems, two *ci* poems and four prose passages. Often extremely simple in construction and language, these lines describe the natural world around her as the seasons pass, drawing the reader into the universe of her inner thoughts and interactions within that world; for example, in the first volume, after the first chapter of the *Book of Documents* “The Classic of the Emperor Yao” 堯典:
+After copying Lu Xuan's manuscript, Shen Cai occasionally added her own literary creations to the end of sections; sixteen in total, comprising twelve *shi* poems, two *ci* poems and four prose passages. Often quite simple in construction and language, these lines describe the natural world around her as the seasons pass, drawing the reader into the universe of her inner thoughts and interactions; for example, in the first volume, after the first chapter of the *Book of Documents* “The Classic of the Emperor Yao” 堯典:
 
 After my Lord drafted *Meanings in the Book of Documents*, he ordered me, [Shen] Cai, to make a handwritten fair-copy, and for this reason presented me a poem with the following lines:
 
@@ -38,7 +38,7 @@ A warm wind reaches the photinia<br>
 As from within a painting of teaching scripture<br>
 Receiving the words of Fu Sheng*
 
-In the *dingwei* year of the reign of the Emperor Qianlong [1787], the first month, the first day, having copied the chapter “The Counsels of Emperor Yu the Great,” I composed a poem in the five-character *lü* format, hoping my Learned Master may smile beneficently upon me. [Written by] The Hermit of Qingyao Mountain.
+In the *dingwei* year of the reign of the Emperor Qianlong [1787], the first month, the first day, having copied the chapter “The Counsels of Emperor Yu the Great,” I composed a poem in the five-character *lü* format, hoping that my Learned Master may smile beneficently upon me. [Written by] The Hermit of Qingyao Mountain.
 
 莫笑金釵陋，惟無玉秤慙。<br>
 二妃虞帝助，十亂邑薑參。<br>
@@ -80,7 +80,7 @@ At the end of the nineteenth chapter “Pan Geng, part 2” 盤庚中:
 
 *A musky incense burner, a cup of tea<br>
 The pleasure of editing a text can be embellished<br>
-The solar term “Grain-Moistening Rain” passes swiftly<br>
+The solar term “Grain-Moistening Rain” swiftly passes<br>
 Flowers open onto the halls, such are the poppies*
 
 The third month, the eleventh day, having finished writing and proofreading, now lazing around, jotting a few lines of *jue* poetry.
@@ -109,7 +109,7 @@ The Silkworm Cultivating Concubine of Xu Mountain, Shen Cai, extemporizes:
 Having reached high summer and the sound of crickets, at the close of the twenty-fifth chapter “The Chieftain of the West [King Wen]’s Conquest of [the State of] Li” 西伯戡黎:
 
 *Remembering my first taste of Yu Shen broth[^7]<br>
-On paper ruled in squares, copying the “Pan Geng” chapters[^8]<br>
+On square-ruled paper, copying out the “Pan Geng” chapters[^8]<br>
 From the *Book of the Yin Dynasty*, having concluded “The Conquest of Li”[^9]<br>
 Purple bean flowers opened and crickets sang[^10]*
 
@@ -137,18 +137,18 @@ In the evening of the eighth month of the seventh day, having finished writing, 
 
 {{< q-figure id="RSL_6" >}}
 
-As autumn deepens the shadows lengthen, the frost comes and nearly a year has passed; so, in the ninth volume, after the forty-third chapter:
+As autumn deepens the shadows lengthen and the frost comes; nearly a year has passed, so, in the ninth volume, after the forty-third chapter:
 
 *Sun and moon are revolving axes<br>
 Heaven and earth will not cease<br>
-Moving my pen, writing over tiers of bamboo strips<br>
+Moving my pen, writing across tiers of bamboo strips<br>
 Suddenly feeling the need for an extra layer of clothing<br>
 A chill frost covers the late chrysanthemums<br>
 From the north, the wind blows cold evening sunbeams<br>
 In the courtyard, leaves fall from the trees<br>
 Amidst the clouds, migrating geese fly past*
 
-Having finished the chapter “Against Luxurious Ease,” jotting a poem; Shen Cai.
+Having finished the chapter “Against Luxurious Ease,” jotting down a poem; Shen Cai.
 
 日月如轉轂，天地無停機。<br>
 載筆親書策，忽復當授衣。<br>
