@@ -11,25 +11,26 @@ This edition of *Commentary on the Book of Documents* is composed of twelve fasc
 
 {{< q-figure id="5.1" >}}
 
-The title label on the cover of each fascicle is handwritten on paper that is decorated with gold. There is a similar but smaller gold label at the end of the last fascicle, which marks an area for other scholars to add their comments.
+The title label on the cover of each fascicle is handwritten on paper that has been decorated with gold. A similar but smaller gold label appears at the end of the last fascicle, which marks an area for other scholars to add their comments. The title labels for *Commentary on the Book of Documents* were handwritten by Lu Xuan. The label of the twelfth volume contains two square intaglio seals of Lu Xuan’s studio name, Plum Valley (Mei Gu). The contents are numbered on each label using the Twelve Earthly Branches.[^2]
 
-{{< q-figure id="5.3" >}}
+{{< q-figure-group grid="2" id="5.10_2, 5.3" >}}
 
-Ten of the twelve fascicles are bound with “betel nut and tiger skin” patterned paper covers; one fascicle is bound in a sky-blue silk cover adorned with cloud and phoenix graphics; and one volume has the “betel nut and tiger skin” paper as the front cover and the sky-blue silk as the back cover.
+Ten of the twelve fascicles are bound with “betel nut and tiger skin” patterned paper covers; one fascicle is bound in a sky-blue silk cover adorned with cloud and phoenix graphics, while one volume uses the “betel nut and tiger skin” paper as the front cover and the sky-blue silk as the back cover.
 
 {{< q-figure-group grid="2" id="5.4, 5.5" >}}
 
-The pages of the book are printed with a black text frame (*bankuang*). This frame is single-lined at the head and tail while the vertical lines of the text frame are double-lined. The center of the block (*banxin*) is white and does not include the fish-tail mark commonly found in many other printed and handwritten works from this time. The only writing on the *banxin* are the chapter title (*juan*) and page number. In addition to the ownership stamp for the Fung Ping Shan Library of the University of Hong Kong on the cover of each fascicle, the beginning of chapters and the first page of each fascicle also contains seal impressions from multiple collectors, including Liu Chenggan, courtesy name Zhenyi, pen name Han yi (square relief seal); the “Wu Xing Liu Family Jiayetang Collection” (square intaglio seal); “Zhu”  and “Shao” (square intaglio seals); “Jia bin Collection” (oblong intaglio seal); and “Zhang Shuping” (square intaglio seal).
+The book pages are printed with a black text frame (*bankuang*). This frame is single-lined at the head and tail while the vertical lines of the text frame are double-lined. The center of the block (*banxin*) is white and does not include the fish-tail mark commonly found in other printed and handwritten works from this time.
+
+{{< q-figure id="SC_layout" >}}
+{{< q-figure id="Book_layout" >}}
+
+The only writing on the *banxin* are the chapter title (*juan*) and page number. In addition to the ownership stamp for the Fung Ping Shan Library of the University of Hong Kong that appears on the cover of each fascicle, the beginning of chapters, and the first page of each fascicle, also contains seal impressions from multiple collectors, including Liu Chenggan, courtesy name Zhenyi, pen name Han yi (square relief seal); the “Wu Xing Liu Family Jiayetang Collection” (square intaglio seal); “Zhu”  and “Shao” (square intaglio seals); “Jia bin Collection” (oblong intaglio seal); and “Zhang Shuping” (square intaglio seal).
 
 {{< q-figure id="4.2" >}}
 
-The manuscript is written in a neat kai script on a mixed-fiber paper (*Luowen Xuan*[^1]) with fine chain lines. The chain lines appear 2–3 mm apart, which is closer than on most standard *xuan* papers. The binding style incorporates an interleaving paper in the center of each folded leaf. The words “Long Tai Yu Factory Fan Paper” are printed on the edge of the interleaving paper at the bottom of the last fascicle, providing evidence of the specific paper used for interleaving the binding. Stamps from the paper mill were commonly included on the end of the ream of paper, and are seen in both printed and handwritten manuscript volumes from the Qianlong period of the Qing dynasty.[^2]
+The manuscript is written in a neat kai script on a mixed-fiber paper (*Luowen Xuan*[^1]) with fine chain lines. The chain lines appear 2–3 mm apart, which is closer than on most standard *xuan* papers. The binding style incorporates an interleaving paper in the center of each folded leaf. The words “Long Tai Yu Factory Fan Paper” are printed on the edge of the interleaving paper at the bottom of the last fascicle, providing evidence of the specific paper used for interleaving the binding. Stamps from the paper mill were commonly included on the end of the ream of paper, and are seen in both printed and handwritten manuscript volumes from the Qianlong period of the Qing dynasty.[^3]
 
 {{< q-figure-group grid="2" id="5.9, 5.8" >}}
-
-The title labels for *Commentary on the Book of Documents* were handwritten by Lu Xuan. The label of the twelfth volume has two square intaglio seals of Lu Xuan’s studio name Plum Valley (Mei Gu). The contents are numbered on each label using the Twelve Earthly Branches.[^3]
-
-{{< q-figure id="5.10_2" >}}
 
 The title label is missing on the second fascicle, but can be found on all others. On the final page of the last fascicle there is a small square intaglio seal that bears the words “Hand bound by Floating Fragrance (Piao Xiang)”. This is believed to be a studio name for Shen Cai,[^4] indicating that Shen Cai was both the scribe and binder.
 
@@ -49,7 +50,7 @@ After becoming a part of the Fung Ping Shan Library, two enclosures made of hard
 
 #### Notes
 [^1]: 羅紋紙 *luowen* is a handmade paper commonly produced during the Qing dynasty. There are two main types: one made from blue sandalwood (*Pteroceltis tatarinowii Maxim*) bark combined with other fibers, and the second made from a bleached bamboo pulp.  罗纹纸，清代纸名，中国手工纸种之一。主要分为两种：一种是由青檀皮等为原料制作；另一种是用漂白竹浆制成。
-[^2]: Chang Pao-san, "Paper Manufacturers’ Marks Stamped in the Rare Chinese Books of the Qing Dynasty," *National Library Journal*, 2015, vol. 2 張寶三（2015）：紙廠印記在清代中文善本古籍 Tai版本鑑定之運用，國家圖書館館刊 一零四年第二期。
-[^3]: The Twelve Earthly Branches are often used as a numbering system. They are: Zi, Chou, Yin, Mao, Chen, Si, Wu, Wei, Shen, You, Xu, and Hai. 地支，也是中华民族用来纪录时间的文字，叫做十二地支。分别为：子、丑、寅、卯、辰、巳、午、未、申、酉、戌、亥。
+[^2]: The Twelve Earthly Branches are often used as a numbering system. They are: Zi, Chou, Yin, Mao, Chen, Si, Wu, Wei, Shen, You, Xu, and Hai. 地支，也是中华民族用来纪录时间的文字，叫做十二地支。分别为：子、丑、寅、卯、辰、巳、午、未、申、酉、戌、亥。
+[^3]: Chang Pao-san, "Paper Manufacturers’ Marks Stamped in the Rare Chinese Books of the Qing Dynasty," *National Library Journal*, 2015, vol. 2 張寶三（2015）：紙廠印記在清代中文善本古籍 Tai版本鑑定之運用，國家圖書館館刊 一零四年第二期。
 [^4]: Li Yu An, Huang Zheng Yu. *Chinese Bibliophiles’ General Code*. China International Culture Press, 2005. 中国藏书家通典/李玉安，黄正雨：中国国际文化出版社，2005年版
 [^5]: Ying Changxing, Li Xingzhong. *Jiayetang Zhi*. National Library of China Press, 2008. 嘉業堂志/應長興，李性忠主編，北京：國家圖書館出版社，2008.10版

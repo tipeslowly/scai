@@ -44,7 +44,7 @@ figure_list:
 
   - id: "4.2"
     src: figures/4.2.png
-    credit: ""
+    credit: "Seal impressions from previous collectors"
 
   - id: "3.6"
     src: figures/3.6.png
@@ -56,19 +56,27 @@ figure_list:
 
   - id: "5.1"
     src: figures/5.1.png
-    credit: ""
+    credit: "Six fascicles of *Commentary on the Book of Documents*"
 
   - id: "5.3"
     src: figures/5.3.png
-    credit: ""
+    caption: "Gold label at the end of the last fascicle marking an area for scholars to add comments"
 
   - id: "5.4"
     src: figures/5.4.png
-    credit: ""
+    credit: "Betel nut and tiger skin paper cover"
 
   - id: "5.5"
     src: figures/5.5.png
-    credit: ""
+    credit: "Sky-blue silk cover with cloud and phoenix graphics"
+
+  - id: "SC_layout"
+    src: figures/SC_layout.png
+    caption: "Page layout for *Commentary on the Book of Documents*"
+
+  - id: "Book_layout"
+    src: figures/Book_layout.png
+    caption: "Traditional Chinese book layout"
 
   - id: "5.8"
     src: figures/5.8.png
@@ -88,7 +96,7 @@ figure_list:
 
   - id: "5.11"
     src: figures/5.11.png
-    caption: "Shen Cai's seal appears on the bottom left corner"
+    caption: "Shen Cai's seal appears at the bottom left corner"
 
   - id: "LX_1"
     src: figures/LX_1.png
@@ -176,7 +184,7 @@ figure_list:
     src: figures/Zhejiang_library.png
     caption: "原件藏浙江圖書館 Letter from Liu Chenggan to the Zhejiang Library, dated 19 November 1951<br> (original in the Zhejiang Library)"
     credit: ""
-    
+
   - id: "Jiayetang_gates"
     src: figures/Jiayetang_gates.png
     caption: "Entrance gates to the Jiayetang Library"
