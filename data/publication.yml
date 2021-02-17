@@ -9,20 +9,20 @@
 
 # ------------------------------------------------------------------------------
 # Title & Description
-title: From the Rainbow Screen
-subtitle: Shen Cai
+title: Crime, Justice and Punishment in Colonial Hong Kong
+subtitle:
 reading_line:
 short_title:
 
 description:
-  one_line: Exhibition 01.09.2020 – 01.10.2020
+  one_line: Highlights from HKUP 2020 publication
   full: >-
 
 # ------------------------------------------------------------------------------
 # Publication Details
 # ------------------------------------------------------------------------------
 
-pub_date: 2020-10-10 # YYYY-MM-DD
+pub_date: 2020-03-01 # YYYY-MM-DD
 language: en
 pub_type: other # book | journal-periodical | other
 
@@ -30,10 +30,10 @@ identifier:
   isbn:
 
 publisher:
-  - name: HKUL
+  - name: Hong Kong University Press
     location: Hong Kong
     url:
-    logo: figures/HKUL_logo.png
+    logo: figures/HKUP_logo.png
 
 # ------------------------------------------------------------------------------
 # Contributors
@@ -42,33 +42,33 @@ publisher:
 contributor_as_it_appears:
 
 contributor:
-  - id: Yang Yuanzheng
+  - id: Hong Kong University Press
     type: primary
-    first_name: YANG
-    last_name: Yuanzheng
-    title: Professor
-    affiliation: HKU Department of Music
+    first_name: Hong Kong University Press
+    last_name:
+    title:
+    affiliation:
     bio:
     url:
     pic:
     file_as: 1
-  - id: Joan Beenk
+  - id: May Holdsworth
     type: secondary
-    first_name: Joan
-    last_name: Beenk
-    bio: "Head of HKUL PCD"
+    first_name: May
+    last_name: Holdsworth
+    bio: "Previous books include *Foreign Devils: Expatriates in Hong Kong*, and *The Palace of Established Happiness: Restoring a Garden in the Forbidden City*. "
     file_as: 2
-  - id: Lesly Liu
+  - id: Chris Munn
     type: secondary
-    first_name: Lesley
-    last_name: Liu
-    bio: "Assistant Preservation & Conservation Librarian"
+    first_name: Chris
+    last_name: Munn
+    bio: "Author of *Anglo-China: Chinese People and British Rule in Hong Kong, 1841–1880*."
     file_as: 3
   - id: Christopher_Mattison
     type: secondary
     first_name: Christopher
     last_name: Mattison
-    bio: "UMAG Curator and publisher"
+    bio: "Curator and publisher"
     file_as: 4
   - id: Darcy_Christ
     type: secondary
@@ -84,7 +84,7 @@ contributor:
 # Copright & License
 # ------------------------------------------------------------------------------
 
-copyright: © 2020 Hong Kong University Libraries, The University of Hong Kong
+copyright: © 2021 Hong Kong University Press, The University of Hong Kong
 
 license:
   name: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License

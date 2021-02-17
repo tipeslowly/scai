@@ -5,13 +5,12 @@ menu: false
 type: cover
 slug: .
 toc: false
-image: Cover.png
+image: cover.png
 ---
 
-Texts compiled as part of the *Six Classics* form the canon of Confucian thought. Multiple versions exist of the *Book of Odes*, *Book of Documents*, *Book of Rites*, *Book of Changes*, and *Spring and Autumn Annals*, though no extant copies remain of the sixth and final classic the *Book of Music*.
+Standing together on a hillside above Hong Kong harbour, at the very centre of the city, the Central Police
+Station, Central Magistracy, and Victoria Gaol occupy an entire block of Hollywood Road. Until they were eventually dwarfed by modern high-rise developments, this complex was an ominous presence that loomed over Hong Kong's lower slopes for many decades.
 
-Believed by some scholars to have been partially written and edited by Confucius (551–479 BCE), many of the works in the *Six Classics* actually existed long before the time of Confucius, while others were not composed until the Western Han dynasty (206 BCE–24 CE), as part of the state’s official adoption of Confucianism.
+[*Crime, Justice and Punishment in Colonial Hong Kong*](https://hkupress.hku.hk/pro/1640.php) is a history of these three institutions through a cross section of the people, the buildings in which they found themselves, and the settings in which they pursued their various activities. Covering multiple perspectives, the people and their stories remain at the narrative’s centre, as the timeline zigzags from the colonisation of Hong Kong in 1841 to 2005–2006, when the three buildings were decommissioned.
 
-Another series of foundational texts include discourses on the *Six Classics*. This online exhibition explores one particularly intriguing example held by the Fung Ping Shan Library at HKUL—a clean manuscript copy of the Qing dynasty scholar Lu Xuan’s *Meanings in the Book of Documents*, handwritten and bound in 1787 by his amanuensis and concubine Shen Cai.
-
-Material for this platform is based on HKU Professor [YANG Yuanzheng's](http://www.music.hku.hk/yang-yuanzheng.html) developing manuscript on Confucian music and rites. Additional research was carried out by Lesley Liu and Jody Beenk in the Preservation and Conservation Division of HKUL.
+In 2006, when its last occupants moved out, the Central Police Station complex began a new life as a conservation and revitalisation project under the sponsorship of the Hong Kong Jockey Club Charities Trust. After a period of repair and restoration, and with the addition of two new structures, the 16 existing buildings, and the compound in which they cluster, were transformed into a centre for art, heritage and leisure. A place of retribution, redemption, and death—now opened up to the public’s gaze—transformed into a space for edification and entertainment—the heritage and arts centre known as Tai Kwun.
